@@ -1,0 +1,24 @@
+base
+commercial fleet
+denali
+sle
+sle 1500
+sle 2500
+slt
+slt 1500
+slt 2500
+sle-1
+sle-2
+slt-1
+slt-2
+slt1
+slt2
+hybrid
+sle1
+sle2
+work truck
+shelby kr
+sl
+yc1
+value package
+xtra fuel economy

@@ -1,0 +1,25 @@
+
+2.0i limited
+2.0i hybrid
+2.0i premium
+2.0i sport limited
+2.0i sport premium
+2.0xt premium
+2.0xt touring
+outback sport
+hybrid touring
+sti limited
+wrx sti
+2.5xt
+2.5rs
+wrx
+2.5gt
+3.0r
+base
+limited
+special edition
+touring
+premium
+series.blue
+series.yellow
+hybrid

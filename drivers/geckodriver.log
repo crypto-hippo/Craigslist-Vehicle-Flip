@@ -1,0 +1,86 @@
+1504928571546	geckodriver	INFO	geckodriver 0.18.0
+1504928571553	geckodriver	INFO	Listening on 127.0.0.1:58457
+1504928572138	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504928573212	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504928574141	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dylan\AppData\Local\openvr\openvrpaths.vrpath
+[Child 21968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504928577630	Marionette	INFO	Listening on port 58461
+1504928577665	Marionette	INFO	Listening on port 58461
+1504928578648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504928578713	Marionette	DEBUG	loaded listener.js
+1504928617541	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504928617763	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504928617763	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504928617929	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/"
+1504928618359	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1504928618363	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/"
+1504928618367	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/"
+1504928618710	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/"
+1504928787391	Marionette	DEBUG	loaded listener.js
+Unable to read VR Path Registry from C:\Users\dylan\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8184] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dylan\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7936] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\dylan\AppData\Local\openvr\openvrpaths.vrpath
+Parent 8340] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1504928542423	geckodriver::marionette	ERROR	Failed to kill browser process
+ocal\openvr\openvrpaths.vrpath
+JavaScript warning: http://www2.vauto.com/Va/Appraisal/scripts/Appraisal-xmin.en-US.js?md5=609e47d904c8ec8293e73047642c4ae4, line 11: JavaScript error: cUnable to read VR Path Registry from C:\Users\dylan\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/browser.js, line 6452: TypeError: cannot use the given object as a weak map key
+[GPU 13328] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13328] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8452] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ cannot send/recv
+
+write@resource:///modules/sessionstore/SessionFile.jsm:74:12
+_writeState@reconsole.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    write@resource:///modules/sessionstore/SessionFile.jsm:315:29
+write@resource:///modules/sessionstore/SessionFile.jsm:74:12
+_JavaScript error: chrome://browser/content/tabbrowser.xml, line 3589: TypeError: this.tabs is undefined
+[Parent 25004] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ssionSaver.jsm:184:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+er-child.js, line 125: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x150015,name=PBrowser::Msg_NotifyIMEFocus) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x15002B,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+E: prompt aborted by user
+JavaScript error: resource://gre/components/nsPrompter.js, line 424: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1504086011820	Marionette	INFO	Ceased listening
+031327	Marionette	INFO	Ceased listening
+:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+Line: 1281, column: 20
+console.error: 
+  TabSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Stack: SourceMapConsumer@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/sourcemap/source-map.js:1281:20
+_fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:458:19
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+Line: 1281, column: 20
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1503535419921	Marionette	INFO	Ceased listening
